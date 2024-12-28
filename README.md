@@ -1,0 +1,2 @@
+# gomig
+golang migration
